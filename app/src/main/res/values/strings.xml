@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="API_KEY">ff31419e117fa43d1283f4029a925b0a</string>
+    <string name="API_URL">http://api.tianapi.com/weixin/?key=ff31419e117fa43d1283f4029a925b0a</string>
+    <string name="BASE_URL">http://api.tianapi.com/</string>
+
+</resources>
